@@ -1,4 +1,4 @@
 # ITF-LAB 2018
 
-# author
-= KMITL
+## author
+Nattawut Boonnoon 61070342
